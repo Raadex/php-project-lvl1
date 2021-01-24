@@ -1,0 +1,13 @@
+{
+    "name": "hexlet/code",
+    "bin": ["bin/brain-games"],
+    "authors": [
+        {
+            "name": "Radex",
+            "email": "korenek01@rambler.ru"
+        }
+    ],
+    "description": "hexlet code",
+    "license": "proprietary",
+    "require": {}
+}
