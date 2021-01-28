@@ -10,5 +10,6 @@ if (file_exists($autoloadPath1)) {
 }
 
 use Brain\Games\Cli;
+use Brain\Games\Even;
 
-cli\hello();
+Even\brainEven(cli\hello());
